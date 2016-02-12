@@ -2009,3 +2009,5 @@ Name | Demo
 ||
 |[ophilbert/ActivityTransition](https://github.com/ophilbert/ActivityTransition)|
 |<img src='http://philbert.mobi/img/fade.jpg' width='49%'><img src='http://philbert.mobi/img/flip-horizontal.jpg' width='49%'><img src='http://philbert.mobi/img/flip-vertical.jpg' width='49%'><img src='http://philbert.mobi/img/disappear_top_left.jpg' width='49%'><img src='http://philbert.mobi/img/appear_top_left.jpg' width='49%'><img src='http://philbert.mobi/img/appear_bottom_right.jpg' width='49%'><img src='http://philbert.mobi/img/disappear_bottom_right.jpg' width='49%'><img src='http://philbert.mobi/img/zoom.jpg' width='49%'>|
+|[kunall17/EntryScreenManager](https://github.com/kunall17/EntryScreenManager)|
+|<img src='https://raw.githubusercontent.com/kunall17/EntryScreenManager/screenshots/entryscreen.gif' width='49%'>|
